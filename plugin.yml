@@ -1,0 +1,13 @@
+// Copyright (c) 2016 Voxy Capital
+// Distributed under the MIT/X11 software license, see the accompanying
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+name: Honeypot
+main: honeypot.Honeypot
+version: 7
+author: Voxy Capital
+commands:
+ honeypot:
+  description: Enables Op's to create honeypots by right clicking a block with a wooden axe.
+  usage: /<command>
+  aliases: [hp]
